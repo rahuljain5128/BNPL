@@ -1,0 +1,13 @@
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.exe
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.deps.json
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.runtimeconfig.json
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.runtimeconfig.dev.json
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.dll
+C:\Users\jainr\LogParsing\LogParser\bin\Debug\netcoreapp3.1\LogParser.pdb
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.csprojAssemblyReference.cache
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.AssemblyInfoInputs.cache
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.AssemblyInfo.cs
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.csproj.CoreCompileInputs.cache
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.dll
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.pdb
+C:\Users\jainr\LogParsing\LogParser\obj\Debug\netcoreapp3.1\LogParser.genruntimeconfig.cache

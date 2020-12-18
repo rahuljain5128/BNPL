@@ -1,0 +1,13 @@
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.exe
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.deps.json
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.runtimeconfig.json
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.runtimeconfig.dev.json
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.dll
+C:\Users\jainr\LogParsing\BNPL\bin\Debug\netcoreapp3.1\BNPL.pdb
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.csprojAssemblyReference.cache
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.AssemblyInfoInputs.cache
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.AssemblyInfo.cs
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.csproj.CoreCompileInputs.cache
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.dll
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.pdb
+C:\Users\jainr\LogParsing\BNPL\obj\Debug\netcoreapp3.1\BNPL.genruntimeconfig.cache
